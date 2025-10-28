@@ -1,0 +1,14 @@
+D:\projects\minigrep\minigrep\bin\Debug\net9.0\minigrep.exe
+D:\projects\minigrep\minigrep\bin\Debug\net9.0\minigrep.deps.json
+D:\projects\minigrep\minigrep\bin\Debug\net9.0\minigrep.runtimeconfig.json
+D:\projects\minigrep\minigrep\bin\Debug\net9.0\minigrep.dll
+D:\projects\minigrep\minigrep\bin\Debug\net9.0\minigrep.pdb
+D:\projects\minigrep\minigrep\obj\Debug\net9.0\minigrep.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\minigrep\minigrep\obj\Debug\net9.0\minigrep.AssemblyInfoInputs.cache
+D:\projects\minigrep\minigrep\obj\Debug\net9.0\minigrep.AssemblyInfo.cs
+D:\projects\minigrep\minigrep\obj\Debug\net9.0\minigrep.csproj.CoreCompileInputs.cache
+D:\projects\minigrep\minigrep\obj\Debug\net9.0\minigrep.dll
+D:\projects\minigrep\minigrep\obj\Debug\net9.0\refint\minigrep.dll
+D:\projects\minigrep\minigrep\obj\Debug\net9.0\minigrep.pdb
+D:\projects\minigrep\minigrep\obj\Debug\net9.0\minigrep.genruntimeconfig.cache
+D:\projects\minigrep\minigrep\obj\Debug\net9.0\ref\minigrep.dll
